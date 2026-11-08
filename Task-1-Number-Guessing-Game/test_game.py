@@ -8,7 +8,11 @@ import unittest
 from unittest.mock import patch
 import io
 import sys
+import os
 import random
+
+# Ensure local directory is in Python path for test execution from any directory
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 # Import functions from game.py
 from game import (

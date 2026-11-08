@@ -10,6 +10,10 @@ import unittest
 from unittest.mock import patch
 import io
 import sys
+import os
+
+# Ensure local directory is in Python path for test execution from any directory
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 # Import functions from patterns.py
 from patterns import (
