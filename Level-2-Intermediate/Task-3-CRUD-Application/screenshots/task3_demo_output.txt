@@ -1,0 +1,109 @@
+======================================================================
+       COGNIFYZ TECHNOLOGIES - TASK TRACKER (CRUD SYSTEM)        
+======================================================================
+Manage your in-memory tasks efficiently using list-based CRUD operations.
+======================================================================
+
+----------------------------------- MENU -----------------------------
+  [1] Add New Task (Create)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update)
+  [5] Mark Task as Completed
+  [6] Delete Task (Delete)
+  [7] View Task Statistics
+  [8] Exit Application
+----------------------------------------------------------------------
+Enter your choice (1-8): 
+======================================================================
+ID     | Status      | Title                | Description
+----------------------------------------------------------------------
+1      | ✓ Completed | Complete Internsh... | Finish Task 1 and Task...
+2      | ○ Pending   | Review CRUD Opera... | Practice list methods:...
+======================================================================
+
+----------------------------------- MENU -----------------------------
+  [1] Add New Task (Create)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update)
+  [5] Mark Task as Completed
+  [6] Delete Task (Delete)
+  [7] View Task Statistics
+  [8] Exit Application
+----------------------------------------------------------------------
+Enter your choice (1-8): 
+--- Add New Task ---
+Enter task title: Enter task description (optional): 
+[Success] Task #3 ('Test Task') created successfully!
+
+----------------------------------- MENU -----------------------------
+  [1] Add New Task (Create)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update)
+  [5] Mark Task as Completed
+  [6] Delete Task (Delete)
+  [7] View Task Statistics
+  [8] Exit Application
+----------------------------------------------------------------------
+Enter your choice (1-8): 
+--- Search Task by ID ---
+Enter Task ID to search: 
+==================================================
+ Task ID     : 3
+ Title       : Test Task
+ Description : Demo
+ Status      : Pending
+==================================================
+
+----------------------------------- MENU -----------------------------
+  [1] Add New Task (Create)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update)
+  [5] Mark Task as Completed
+  [6] Delete Task (Delete)
+  [7] View Task Statistics
+  [8] Exit Application
+----------------------------------------------------------------------
+Enter your choice (1-8): 
+--- Mark Task as Completed ---
+Enter Task ID to mark as completed: 
+[Success] Task #3 ('Test Task') marked as Completed! ✓
+
+----------------------------------- MENU -----------------------------
+  [1] Add New Task (Create)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update)
+  [5] Mark Task as Completed
+  [6] Delete Task (Delete)
+  [7] View Task Statistics
+  [8] Exit Application
+----------------------------------------------------------------------
+Enter your choice (1-8): 
+==================================================
+               TASK STATISTICS SUMMARY            
+==================================================
+ Total Tasks Stored  : 3
+ Completed Tasks     : 2
+ Pending Tasks       : 1
+ Completion Rate     : 66.7%
+==================================================
+
+----------------------------------- MENU -----------------------------
+  [1] Add New Task (Create)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update)
+  [5] Mark Task as Completed
+  [6] Delete Task (Delete)
+  [7] View Task Statistics
+  [8] Exit Application
+----------------------------------------------------------------------
+Enter your choice (1-8): 
+======================================================================
+ Thank you for using Task Tracker! Best wishes on your internship! 
+======================================================================
+

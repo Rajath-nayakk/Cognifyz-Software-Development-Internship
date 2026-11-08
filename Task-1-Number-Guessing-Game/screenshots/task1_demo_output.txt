@@ -1,0 +1,55 @@
+=================================================================
+       WELCOME TO THE NUMBER GUESSING GAME - COGNIFYZ TECH       
+=================================================================
+Rules:
+1. The computer picks a secret number between 1 and 100.
+2. You will guess the number based on 'Too High' or 'Too Low' hints.
+3. Try to guess the number within the allowed attempts!
+4. Points are awarded based on how quickly you guess the number.
+=================================================================
+
+#################################################################
+                       ROUND 1                        
+#################################################################
+
+Select Difficulty Level:
+  [1] Easy   - 15 attempts
+  [2] Medium - 10 attempts
+  [3] Hard   -  5 attempts
+Enter choice (1, 2, or 3): 
+>> Difficulty set to: Hard (5 attempts allowed)
+
+[System] A secret number between 1 and 100 has been generated.
+[System] You have 5 attempts. Good luck!
+
+[Attempt 1/5] Enter your guess (1-100): [Error] Invalid input! Only whole numbers are allowed. Please try again.
+[Attempt 1/5] Enter your guess (1-100): [Warning] Out of range! Please enter a number between 1 and 100.
+[Attempt 1/5] Enter your guess (1-100): >> Too High! Think lower. (4 attempts remaining)
+
+[Attempt 2/5] Enter your guess (1-100): >> Too High! Think lower. (3 attempts remaining)
+
+[Attempt 3/5] Enter your guess (1-100): >> Too High! Think lower. (2 attempts remaining)
+
+[Attempt 4/5] Enter your guess (1-100): >> Too High! Think lower. (1 attempts remaining)
+
+[Attempt 5/5] Enter your guess (1-100): -----------------------------------------------------------------
+ [CONGRATULATIONS!] You guessed the correct number! 
+ Secret Number    : 6
+ Difficulty       : Hard
+ Attempts Taken   : 5 / 5
+ Final Score      : 20 / 100 pts
+-----------------------------------------------------------------
+
+Do you want to play again? (yes/no or y/n): 
+=================================================================
+                    GAME SESSION SUMMARY                         
+=================================================================
+ Total Rounds Played : 1
+ Rounds Won          : 1
+ Rounds Lost         : 0
+ Cumulative Score    : 20 pts
+ Average Score       : 20.0 pts
+=================================================================
+ Thank you for playing! Keep coding and have a great day!
+=================================================================
+

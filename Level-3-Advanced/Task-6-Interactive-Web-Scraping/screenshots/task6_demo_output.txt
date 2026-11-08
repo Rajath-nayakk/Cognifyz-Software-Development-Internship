@@ -1,0 +1,18 @@
+======================================================================
+       COGNIFYZ TECHNOLOGIES - INTERACTIVE WEB SCRAPER           
+======================================================================
+Extract and visualize structured data from web pages safely & politely.
+======================================================================
+
+-------------------------- SCRAPER MENU ----------------------------
+  [1] Scrape Famous Quotes       (quotes.toscrape.com)
+  [2] Scrape Books Catalog       (books.toscrape.com)
+  [3] Scrape Custom URL Metadata (Any public website)
+  [4] Export Last Results to JSON File
+  [5] Exit Application
+----------------------------------------------------------------------
+Enter choice (1-5): 
+======================================================================
+ Thank you for using Interactive Web Scraper! Happy Coding! 
+======================================================================
+

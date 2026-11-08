@@ -1,0 +1,74 @@
+=================================================================
+       COGNIFYZ TECHNOLOGIES - TEMPERATURE CONVERTER             
+=================================================================
+Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+=================================================================
+
+----------------------- CONVERSION MENU -----------------------
+  [1] Celsius to Fahrenheit (°C -> °F)
+  [2] Fahrenheit to Celsius (°F -> °C)
+  [3] Celsius to Kelvin     (°C -> K)
+  [4] Kelvin to Celsius     (K -> °C)
+  [5] Fahrenheit to Kelvin  (°F -> K)
+  [6] Kelvin to Fahrenheit  (K -> °F)
+  [7] Exit Program
+-----------------------------------------------------------------
+Select an option (1-7): Enter temperature in Celsius (°C): 
+=======================================================
+                 CONVERSION RESULT                       
+=======================================================
+ Input Temperature  : 100.00 °C
+ Converted Result   : 212.00 °F
+ Applied Formula    : F = (C × 9/5) + 32
+=======================================================
+
+----------------------- CONVERSION MENU -----------------------
+  [1] Celsius to Fahrenheit (°C -> °F)
+  [2] Fahrenheit to Celsius (°F -> °C)
+  [3] Celsius to Kelvin     (°C -> K)
+  [4] Kelvin to Celsius     (K -> °C)
+  [5] Fahrenheit to Kelvin  (°F -> K)
+  [6] Kelvin to Fahrenheit  (K -> °F)
+  [7] Exit Program
+-----------------------------------------------------------------
+Select an option (1-7): Enter temperature in Fahrenheit (°F): 
+=======================================================
+                 CONVERSION RESULT                       
+=======================================================
+ Input Temperature  : 32.00 °F
+ Converted Result   : 0.00 °C
+ Applied Formula    : C = (F - 32) × 5/9
+=======================================================
+
+----------------------- CONVERSION MENU -----------------------
+  [1] Celsius to Fahrenheit (°C -> °F)
+  [2] Fahrenheit to Celsius (°F -> °C)
+  [3] Celsius to Kelvin     (°C -> K)
+  [4] Kelvin to Celsius     (K -> °C)
+  [5] Fahrenheit to Kelvin  (°F -> K)
+  [6] Kelvin to Fahrenheit  (K -> °F)
+  [7] Exit Program
+-----------------------------------------------------------------
+Select an option (1-7): Enter temperature in Celsius (°C): 
+=======================================================
+                 CONVERSION RESULT                       
+=======================================================
+ Input Temperature  : 0.00 °C
+ Converted Result   : 273.15 K
+ Applied Formula    : K = C + 273.15
+=======================================================
+
+----------------------- CONVERSION MENU -----------------------
+  [1] Celsius to Fahrenheit (°C -> °F)
+  [2] Fahrenheit to Celsius (°F -> °C)
+  [3] Celsius to Kelvin     (°C -> K)
+  [4] Kelvin to Celsius     (K -> °C)
+  [5] Fahrenheit to Kelvin  (°F -> K)
+  [6] Kelvin to Fahrenheit  (K -> °F)
+  [7] Exit Program
+-----------------------------------------------------------------
+Select an option (1-7): 
+=================================================================
+ Thank you for using Temperature Converter! Keep learning! 
+=================================================================
+

@@ -1,0 +1,79 @@
+========================================================================
+       COGNIFYZ TECHNOLOGIES - PERSISTENT TASK MANAGER (FILE I/O) 
+========================================================================
+ Storage File: tasks.txt (Auto-saving enabled)
+========================================================================
+
+------------------------------ MENU ------------------------------------
+  [1] Add New Task (Create & Auto-save)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update & Auto-save)
+  [5] Mark Task as Completed (Auto-save)
+  [6] Delete Task (Delete & Auto-save)
+  [7] View Task Statistics
+  [8] Reload Data from Disk
+  [9] Exit Application
+------------------------------------------------------------------------
+Enter your choice (1-9): 
+========================================================================
+ID     | Status      | Title                | Description
+------------------------------------------------------------------------
+1      | ✓ Completed | Complete Internsh... | Finish Task 1 and Task ...
+2      | ○ Pending   | Implement Task 5 ... | Persist tasks to text f...
+========================================================================
+
+------------------------------ MENU ------------------------------------
+  [1] Add New Task (Create & Auto-save)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update & Auto-save)
+  [5] Mark Task as Completed (Auto-save)
+  [6] Delete Task (Delete & Auto-save)
+  [7] View Task Statistics
+  [8] Reload Data from Disk
+  [9] Exit Application
+------------------------------------------------------------------------
+Enter your choice (1-9): 
+--- Add New Task ---
+Enter task title: Enter task description (optional): 
+[Success] Task #3 ('Persistent Demo') created and saved to disk!
+
+------------------------------ MENU ------------------------------------
+  [1] Add New Task (Create & Auto-save)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update & Auto-save)
+  [5] Mark Task as Completed (Auto-save)
+  [6] Delete Task (Delete & Auto-save)
+  [7] View Task Statistics
+  [8] Reload Data from Disk
+  [9] Exit Application
+------------------------------------------------------------------------
+Enter your choice (1-9): 
+==================================================
+               TASK STATISTICS SUMMARY            
+==================================================
+ Total Tasks Stored  : 3
+ Completed Tasks     : 1
+ Pending Tasks       : 2
+ Completion Rate     : 33.3%
+ Storage File        : C:\Users\Rajath Nayak\OneDrive\Desktop\cognifyz\Level-3-Advanced\Task-5-CRUD-File-Persistence\data\tasks.txt
+==================================================
+
+------------------------------ MENU ------------------------------------
+  [1] Add New Task (Create & Auto-save)
+  [2] View All Tasks (Read)
+  [3] Search Task by ID
+  [4] Update Task Details (Update & Auto-save)
+  [5] Mark Task as Completed (Auto-save)
+  [6] Delete Task (Delete & Auto-save)
+  [7] View Task Statistics
+  [8] Reload Data from Disk
+  [9] Exit Application
+------------------------------------------------------------------------
+Enter your choice (1-9): 
+========================================================================
+ All changes saved to disk. Thank you for using Persistent Task Manager! 
+========================================================================
+
