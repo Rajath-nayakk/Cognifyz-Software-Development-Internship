@@ -1,0 +1,7 @@
+# Cognifyz Technologies - Software Development Internship
+# Python Dependencies
+# Tasks 1 to 5 use only Python's standard library.
+# Task 6 uses requests and beautifulsoup4 for web scraping.
+
+requests>=2.28.0
+beautifulsoup4>=4.11.0

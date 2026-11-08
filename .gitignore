@@ -14,3 +14,8 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
+
+# Runtime outputs (preserving directories via .gitkeep)
+Level-3-Advanced/Task-5-CRUD-File-Persistence/data/*.txt
+!Level-3-Advanced/Task-5-CRUD-File-Persistence/data/.gitkeep
+Level-3-Advanced/Task-6-Interactive-Web-Scraping/*.json
