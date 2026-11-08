@@ -10,3 +10,4 @@ Recommended screenshots to capture:
 5. `05_json_export.png` - Successful export of scraped data to `scraped_data.json` and viewing the file.
 6. `06_error_handling.png` - Demonstrating invalid URL input handling or simulated network error.
 7. `07_automated_unit_tests.png` - Terminal execution showing all 9 mocked unit tests passing (`py -m unittest test_main.py -v`).
+

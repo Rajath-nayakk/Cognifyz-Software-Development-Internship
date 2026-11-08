@@ -10,3 +10,4 @@ Recommended screenshots to capture:
 5. `05_kelvin_conversion.png` - Kelvin conversions showing scale alignment with absolute zero.
 6. `06_input_validation.png` - Handling non-numeric entries, empty lines, and values below absolute zero.
 7. `07_automated_unit_tests.png` - Terminal execution showing all 18 automated unit tests passing (`py -m unittest test_main.py -v`).
+

@@ -10,3 +10,4 @@ Recommended screenshots to capture:
 5. `05_restart_persistence_proof.png` - Closing the app, reopening it, and viewing tasks still loaded from disk.
 6. `06_delete_and_file_update.png` - Deleting a task and verifying removal from `tasks.txt`.
 7. `07_automated_unit_tests.png` - Terminal execution showing all 10 unit tests passing (`py -m unittest test_main.py -v`).
+
